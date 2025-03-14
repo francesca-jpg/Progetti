@@ -1,4 +1,4 @@
-# 🌟 Portfolio Progetti
+# 🌟 Portfolio
 
 Questa repository raccoglie alcuni dei progetti che ho realizzato nel corso del mio percorso universitario. Ogni progetto è organizzato in una cartella separata e contiene i file principali.
 
