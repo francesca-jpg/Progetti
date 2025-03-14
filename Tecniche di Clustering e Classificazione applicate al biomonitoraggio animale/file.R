@@ -1,0 +1,1 @@
+Aggiunta cartella Progetto2
